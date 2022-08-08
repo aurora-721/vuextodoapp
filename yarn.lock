@@ -979,6 +979,30 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fortawesome/fontawesome-common-types@6.1.2":
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.1.2.tgz#c1095b1bbabf19f37f9ff0719db38d92a410bcfe"
+  integrity sha512-wBaAPGz1Awxg05e0PBRkDRuTsy4B3dpBm+zreTTyd9TH4uUM27cAL4xWyWR0rLJCrRwzVsQ4hF3FvM6rqydKPA==
+
+"@fortawesome/fontawesome-free@^6.1.2":
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-free/-/fontawesome-free-6.1.2.tgz#d18880eddeadd42b1c64cb559f2f3d13d47a4a64"
+  integrity sha512-XwWADtfdSN73/udaFm+1mnGIj/ShDZNFMe/PRoqv3FhQ4GNI2PUN70yFTPsjq65Lw2C9i4TG5/hTbxXIXVCiqQ==
+
+"@fortawesome/fontawesome-svg-core@^6.1.2":
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-6.1.2.tgz#11e2e8583a7dea75d734e4d0e53d91c63fae7511"
+  integrity sha512-853G/Htp0BOdXnPoeCPTjFrVwyrJHpe8MhjB/DYE9XjwhnNDfuBCd3aKc2YUYbEfHEcBws4UAA0kA9dymZKGjA==
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "6.1.2"
+
+"@fortawesome/free-solid-svg-icons@^6.1.2":
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-6.1.2.tgz#491d668b8a6603698d0ce1ac620f66fd22b74c84"
+  integrity sha512-lTgZz+cMpzjkHmCwOG3E1ilUZrnINYdqMmrkv30EC3XbRsGlbIOL8H9LaNp5SV4g0pNJDfQ4EdTWWaMvdwyLiQ==
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "6.1.2"
+
 "@hapi/hoek@^9.0.0":
   version "9.3.0"
   resolved "https://registry.yarnpkg.com/@hapi/hoek/-/hoek-9.3.0.tgz#8368869dcb735be2e7f5cb7647de78e167a251fb"
@@ -3278,6 +3302,11 @@ follow-redirects@^1.0.0, follow-redirects@^1.14.9:
   version "1.15.1"
   resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.1.tgz#0ca6a452306c9b276e4d3127483e29575e207ad5"
   integrity sha512-yLAMQs+k0b2m7cVxpS1VKJVvoz7SS9Td1zss3XRwXj+ZDH00RJgnuLx7E44wx02kQLrdM3aOOy+FpzS7+8OizA==
+
+font-awesome@^4.7.0:
+  version "4.7.0"
+  resolved "https://registry.yarnpkg.com/font-awesome/-/font-awesome-4.7.0.tgz#8fa8cf0411a1a31afd07b06d2902bb9fc815a133"
+  integrity sha512-U6kGnykA/6bFmg1M/oT9EkFeIYv7JlX3bozwQJWiiLz6L0w3F5vBVPxHlwyX/vtNq1ckcpRKOB9f2Qal/VtFpg==
 
 form-data@^4.0.0:
   version "4.0.0"
