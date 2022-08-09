@@ -1,5 +1,8 @@
 # test
 
+Check the deployed webpage at:
+https://vuextodoapp.vercel.app
+
 ## Project setup
 ```
 yarn install
